@@ -59,7 +59,7 @@ if __name__ == "__main__":
     debug_question_7 = "Is MD5 a secured hashing algorithm? - Yes/No"
     print(welcome_assignment_answers(debug_question_7))
 
-    debug_question_8 = "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
+    debug_question_8 = "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number"
     print(welcome_assignment_answers(debug_question_8))
 
     debug_question_9 = "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an " \
