@@ -21,8 +21,7 @@ def welcome_assignment_answers(question):
         answer = "883c13da6a24949c9a23231b60119e2ace58459da4f8bbdd812cc37764548bdd"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
-    elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an " \
-                     "integer number":
+    elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
         answer = 5
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an " \
                      "integer number":
